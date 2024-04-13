@@ -1,0 +1,13 @@
+{
+  "name": "notes-application",
+  "version": "0.0.1",
+  "description": "notes application to take the input from user and save the notes and perform CRUD Operations.",
+  "scripts": {
+    "start-client": "cd client && npm start"
+  },
+  "author": "BhupeshSahu",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
